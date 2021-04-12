@@ -5,9 +5,9 @@ Ce repository regroupe l'ensemble des exercices à fournir avant votre entretien
 ## Exercices
 Les exercices sont divisés en trois parties. Les consignes sont spécifiées dans le fichier `README.md` de chacun de ces répertoires.
 
-1. [Test Javascript](https://github.com/waldeck-dev/datalumni-technical-testw/tree/master/javascript)
-2. [Test Python](https://github.com/waldeck-dev/datalumni-technical-testw/tree/master/python)
-3. [Test SQL](https://github.com/waldeck-dev/datalumni-technical-testw/tree/master/sql)
+1. [Test Javascript](https://github.com/waldeck-dev/datalumni-technical-tests/tree/main/javascript)
+2. [Test Python](https://github.com/waldeck-dev/datalumni-technical-tests/tree/main/python)
+3. [Test SQL](https://github.com/waldeck-dev/datalumni-technical-tests/tree/main/sql)
 
 ---
 

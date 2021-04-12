@@ -40,6 +40,6 @@ L'application contient les fonctionnalités suivantes :
 
 
 ### Exemple de rendu
-![Exemple datalumni-test-vue](https://github.com/waldeck-dev/datalumni-technical-tests/blob/master/javascript/datalumni-test-vue2.png?raw=true)
+![Exemple datalumni-test-vue](https://github.com/waldeck-dev/datalumni-technical-tests/blob/main/javascript/datalumni-test-vue2.png?raw=true)
 
 *Votre travail ne doit pas nécessairement ressembler parfaitement à cet exemple*
